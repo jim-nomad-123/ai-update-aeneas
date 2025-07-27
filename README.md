@@ -1,4 +1,4 @@
-# AI Update Aeneas
+# AI Update Aeneas Video
 An up-tempo video about Deepmind's Aeneas AI, which helps historians restore historical Roman inscriptions. DeepMind’s Aeneas is a groundbreaking AI model that helps historians restore, date, and contextualize fragmentary Roman inscriptions in seconds. Aeneas was introduced by Google DeepMind and collaborators in a Nature paper published on 23 July 2025. Trained on nearly 200,000 texts, it fills gaps of unknown length, estimates carving dates within a 13‑year window, and pinpoints geographical origin across 62 provinces. In trials with 23 expert historians, Aeneas’s suggested “parallels” boosted confidence by 44%, linking isolated fragments to major works like the Res Gestae Divi Augusti. Built in collaboration with scholars at Nottingham, Oxford, and Athens University, and freely accessible online, Aeneas democratizes epigraphy—making the whispers of ancient Rome audible to all.
 
 ## Tools Used
