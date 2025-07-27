@@ -3,12 +3,12 @@ An up-tempo video about Deepmind's Aeneas AI, which helps historians restore his
 
 ## Tools Used
 - Suno v4.5: Roman instrumental music
-- DALL·E 3: Image generation (which multiple rounds of human finetuning)
+- DALL·E 3: Image generation (with multiple rounds of human finetuning for solar punk color and style)
 - Kling: Animations (along with multiple rounds of human finetuning)
 - CapCut: Final video assembly and text overlay
 
 ## Files
-- 'ai-update-aeneas.mp4': Main video file (9:16, less than 59s)
+- 'ai-update-aeneas-video.mp4': Main video file (9:16, less than 59s)
 - 'images/': Image files 
 - 'audio/': Generated background instrumental track 
 
